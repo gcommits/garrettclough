@@ -72,6 +72,8 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GarrettClough&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garrettclough&theme=black-ice" alt="garrettclough" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GarrettClough&show_icons=true&theme=synthwave" alt="GarrettClough :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Good Natured Synthwave" height="300" width="500"></p>
