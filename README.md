@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "Software Developers -  Student at CodingDojo, Self-Taught HTML/CSS/JS - Graduate of University of California - San Diego",
+		"- ⚡ Quick bio:":                    "Software Developer -  Student at CodingDojo, Self-Taught HTML/CSS/JS - Graduate of University of California - San Diego",
 		"- 🔭 I’m currently working on":      "Freelance Software Development | Front-End Development, SEO and Marketing Analytics at Harmony Lab & Safety Supplies",
 		"- 🌱 I’m currently learning":        "Python and sharpening my Javascript skills",
 		"- 💬 Ask me about":                  "SEO and Web-Development, Python",
