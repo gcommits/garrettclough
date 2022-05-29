@@ -1,78 +1,30 @@
-# Garrett Clough
+<h1 align="center">Hi 👋, I'm Garrett Clough</h1>
+<h3 align="center">A passionate developer from California</h3>
 
-<h2 align="center">About me</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrettclough&label=Profile%20views&color=0e75b6&style=flat" alt="garrettclough" /> </p>
 
-```golang
-package main
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garrettclough" alt="garrettclough" /></a> </p>
 
-import (
-	"fmt"
-)
+- 🔭 I’m currently working on **Full-Stack, Front-End Development**
 
-type Bio map[string]string
+- 🌱 I’m currently learning **Vue, CS50 Machine Learning**
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+- 📫 How to reach me **garrettclough@gmail.com**
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Software Engineer - Graduate of University of California - San Diego",
-		"- 🔭 I’m currently working on":      "Full-Stack, Front-End Development. SEO Manager",
-		"- 🌱 I’m currently learning":        "CS50 Machine Learning, Vue.js",
-		"- 📫 How to reach me:":              "https://github.com/garrettclough#you-can-reach-me-at-alien",
-	}
-}
-```
+- 📄 Know about my experiences [https://linkedin.com/in/garrettclough](https://linkedin.com/in/garrettclough)
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-  <a href="https://dev.to/garrettclough">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Garrett Clough's DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/garrettclough/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Garrett Clough's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/19046186/garrett-clough">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Garrett Clough's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://meta.stackexchange.com/users/1190238/garrett-clough">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Garrett Clough's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/garrettclough">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Garrett Clough's StackShare Profile" height="30" width="30">
-  </a>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've worked with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/garrettclough/personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="GarrettClough :: StackShare" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/garrettclough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="garrettclough" height="30" width="40" /></a>
+<a href="https://twitter.com/garrettclough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garrettclough" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/garrettclough" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garrettclough" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gcxp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gcxp" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@garrett38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@garrett38" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garrettclough&show_icons=true&locale=en" alt="garrettclough" /></p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{garrettclough}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettClough&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garrettclough&theme=black-ice" alt="garrettclough" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GarrettClough&show_icons=true&theme=synthwave" alt="GarrettClough :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Good Natured Synthwave" height="300" width="500"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garrettclough&" alt="garrettclough" /></p>
