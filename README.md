@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack, Front-End Development**
 
-- 🌱 I’m currently learning **CS50 Machine Learning**
+- 🌱 I’m currently learning **Microsoft Azure, CS50 AI and Machine Learning**
 
 - 📫 How to reach me **garrettclough@gmail.com**
 
