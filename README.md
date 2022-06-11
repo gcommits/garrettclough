@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Garrett Clough</h1>
 <h3 align="center">A passionate developer from California</h3>
 
-- 🔭 I’m currently working on **Full-Stack, Front-End Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **Microsoft Azure (AZ-900), CS50 Artificial Intelligence**
+- 🌱 I’m currently learning **Microsoft Azure Data Fundamentals (DP-900), React**
 
 - 📫 How to reach me **garrettclough@gmail.com**
 
