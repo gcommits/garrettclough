@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garrett Clough</h1>
-<h3 align="center">A passionate developer from California</h3>
+<h3 align="center">A growth oriented developer from California</h3>
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
