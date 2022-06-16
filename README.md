@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **Microsoft Azure Data Fundamentals (DP-900), React**
+- 🌱 I’m currently learning **, AWS Certified Cloud Practioner, Microsoft Azure Data Fundamentals (DP-900), React**
 
 - 📫 How to reach me **garrettclough@gmail.com**
 
