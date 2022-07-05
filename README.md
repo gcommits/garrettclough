@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Garrett Clough</h1>
 <h3 align="center">A growth oriented developer from California</h3>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **Full-Stack Development, Tailwind**
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practioner, Microsoft Azure Data Fundamentals (DP-900), React**
+- 🌱 I’m currently learning **AWS Certified Cloud Practioner, Azure AI Fundamentals **
 
 - 📫 How to reach me **garrettclough@gmail.com**
 
