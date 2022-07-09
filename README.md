@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Development, Tailwind**
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practioner, Azure AI Fundamentals **
+- 🌱 I’m currently learning **AWS Cloud Solutions Architect, Azure AI Fundamentals **
 
 - 📫 How to reach me **garrettclough@gmail.com**
 
