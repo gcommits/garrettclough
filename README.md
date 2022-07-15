@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garrett Clough</h1>
 <h3 align="center">A growth oriented developer from California</h3>
 
-- 🔭 I’m currently working on **Full-Stack Development, Tailwind**
+- 🔭 I’m currently working on **Full-Stack Development, APIs**
 
 - 🌱 I’m currently learning **AWS Cloud Solutions Architect, Azure AI Fundamentals **
 
